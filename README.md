@@ -2,7 +2,7 @@
 A  matrix multiplication program using cache blocking
 
 
-A FIFO cache simulator that has been implemented using structs 
+A matrix multiplication programm implemented with the C programming language 
 
 To run the simulator build the source file Matmul.c using either gcc, or your preffered compiler. This will create a working programm that is run with two command line arguments, 1. The source of the first matrix file 2. The source to the second matrix file. Some test files have been provided in the tests directory.
 
